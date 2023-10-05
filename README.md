@@ -2,7 +2,7 @@
 Go wrapper for [ecCodes](https://software.ecmwf.int/wiki/display/ECC/ecCodes+Home)
 
 ## Examples
-[https://github.com/amsokol/go-eccodes/tree/master/cmd](https://github.com/amsokol/go-eccodes/tree/master/cmd)
+[https://github.com/k0new/go-eccodes/tree/master/cmd](https://github.com/k0new/go-eccodes/tree/master/cmd)
 
 - [go-eccodes](#go-eccodes)
     - [Build and install ecCodes C library](#build-and-install-eccodes-c-library)
