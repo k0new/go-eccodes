@@ -1,3 +1,3 @@
-module github.com/amsokol/go-eccodes
+module github.com/k0new/go-eccodes
 
-go 1.13
+go 1.14
